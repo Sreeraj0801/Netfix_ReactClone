@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Netfix_ReactClone/static/css/main.44165be8.css",
+    "main.js": "/Netfix_ReactClone/static/js/main.87fbb48c.js",
+    "index.html": "/Netfix_ReactClone/index.html",
+    "main.44165be8.css.map": "/Netfix_ReactClone/static/css/main.44165be8.css.map",
+    "main.87fbb48c.js.map": "/Netfix_ReactClone/static/js/main.87fbb48c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44165be8.css",
+    "static/js/main.87fbb48c.js"
+  ]
+}
